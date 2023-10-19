@@ -1,4 +1,4 @@
-# Speedfest-Black-Team
+# GeoCharts
 Geo-referenced aviation charts for iOS.
 
 For situational awareness only. Not to be used as primary source of navigation information.
