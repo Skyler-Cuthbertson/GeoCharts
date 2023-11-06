@@ -13,6 +13,7 @@ Email: Skylercuthbertson2001@gmail.com
 TERMS OF USE:
 
 Terms of Service
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 General Information:
 
